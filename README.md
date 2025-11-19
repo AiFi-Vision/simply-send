@@ -43,7 +43,6 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-- [Figma Design](https://www.figma.com/design/5uSx83bkHNxWDytChMTObk/SimpliSend-Mobile-Web-App-Design?node-id=7667-26933&t=xOi9fvFSbxmHz3Z2-0): Figma design for this mobile app.
 
 ## Join the community
 
