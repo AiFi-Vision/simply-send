@@ -34,6 +34,8 @@ npm run reset-project
 ```
 <img width="225" height="905" alt="image" src="https://github.com/user-attachments/assets/7de256ec-ca50-4754-90f6-1a40d563e2ca" />
 <img width="270" height="624" alt="image" src="https://github.com/user-attachments/assets/7ddabe00-57e2-4b98-8b73-28b4c8b6afd0" />
+<img width="275" height="855" alt="image" src="https://github.com/user-attachments/assets/52082778-b29c-4b22-9eaf-dfc96204adcb" />
+
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
